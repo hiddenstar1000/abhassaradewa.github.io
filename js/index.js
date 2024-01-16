@@ -1,3 +1,3 @@
 "use strict";
 
-window.location.replace("sutta/index.html");
+window.location.replace("youtube-video-suggester/index.html");
